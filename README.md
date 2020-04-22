@@ -23,7 +23,7 @@ go run main.go
 5
 ```
 
-### Arithmetic Opeartor
+### Opeartor
 ```swift
 >> let x = 5;
 >> let y = 10;
@@ -31,6 +31,10 @@ go run main.go
 15
 >> 2 + (3 + 4) * 5 + 6;
 43
+>> 5 * 5 + 10
+35
+>> 3 + 4 * 5 == 1 + 4 * 5
+false
 ```
 
 ## How it works
